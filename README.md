@@ -1,6 +1,6 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-![Imgur](bitbruter.png)
+![Imgur](bitb.gif)
 
 
 # Bitbruter
@@ -12,6 +12,7 @@ Automated Bitcoin wallet generator that brute forces random wallet addresses.
 
 [![GitHub stars](https://img.shields.io/github/stars/Py-Project/bitbruter.svg?style=social&label=Star&maxAge=0)](https://github.com/Py-Project/bitbruter/)
 
+![Imgur](bitbruter.png)
 
 
 
