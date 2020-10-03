@@ -1,0 +1,2 @@
+# bitbruter
+Bitcoin wallet bruteforce
