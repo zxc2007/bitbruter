@@ -20,7 +20,7 @@ python bitbruter.py
 
 ```
 ### Windows
-
+```
 cd dist
 start bitbruter.exe
 ```
@@ -45,3 +45,10 @@ private key: 177c1fdf54c4cb646e3425b7756f5c517c740bdc997b59c968e0a92a0b425f54
 WIF private key: 5HzdUFvvYhiKw97xnZtv5eYWuHKQZ1GMWVChuzkxwuQvrzacPg5
 public key: 04040e4311b932c26f2172e112d1e37bca43428ea6951e3269513ecff6dda67dd8b39666ef34e1dfd82cfdc689d6099905ed9f291f4b4bdf921e81d1b657eee1e6
 ```
+
+# Disclaimer
+
+
+**The code within this repository comes with no guarantee, the use of this code is your responsibility. I take NO responsibility and/or liability for how you choose to use any of the source code available here. By using any of the files available in this repository, you understand that you are AGREEING TO USE AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.**
+
+
