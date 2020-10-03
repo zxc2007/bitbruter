@@ -1,5 +1,5 @@
 
-![Imgur](bitbruter.PNG)
+![Imgur](bitbruter.png)
 
 
 # Bitbruter
