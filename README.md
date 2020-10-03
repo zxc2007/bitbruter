@@ -1,12 +1,19 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ![Imgur](bitbruter.png)
 
 
 # Bitbruter
 ```
-offline attack on btc wallets
+Automated Bitcoin wallet generator that brute forces random wallet addresses.
 
 ```
+# If you like it give it a star
+
+[![GitHub stars](https://img.shields.io/github/stars/Py-Project/bitbruter.svg?style=social&label=Star&maxAge=0)](https://github.com/Py-Project/bitbruter/)
+
+
+
 
 # Usage:
 ### Python3+
@@ -31,7 +38,7 @@ Although this project can be used maliciously, it is simply an exploration into 
 
 
 
-**If balance address found is saved in txt file**
+**Address with balance is saved in txt file**
 ```
 address: 17wd8bTwMPYfbo6YwmTFU4xH4hDkd13ATZ
 private key: 0651863bf5d902262b17c4621ec340544ff016752543d99a92d7d22872d8a455
